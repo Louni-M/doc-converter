@@ -85,20 +85,12 @@
         </dict>
       </dict>
     </dict>
-    <key>NSBluetoothAlwaysUsageDescription</key>
-    <string>This app needs access to Bluetooth</string>
-    <key>NSBluetoothPeripheralUsageDescription</key>
-    <string>This app needs access to Bluetooth</string>
-    <key>NSCameraUsageDescription</key>
-    <string>This app needs access to the camera</string>
     <key>NSHighResolutionCapable</key>
     <true/>
     <key>NSHumanReadableCopyright</key>
     <string>Copyright © 2025 Doc Converter</string>
     <key>NSMainNibFile</key>
     <string>MainMenu</string>
-    <key>NSMicrophoneUsageDescription</key>
-    <string>This app needs access to the microphone</string>
     <key>NSPrefersDisplaySafeAreaCompatibilityMode</key>
     <false/>
     <key>NSPrincipalClass</key>
